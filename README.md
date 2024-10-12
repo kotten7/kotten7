@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a college student majoring CS.
 <!--
 **kotten7/kotten7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
